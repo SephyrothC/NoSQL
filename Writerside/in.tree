@@ -14,6 +14,7 @@
     </toc-element>
     <toc-element topic="TP.md">
         <toc-element topic="Bonus.md"/>
-        <toc-element topic="Cheat-Sheet.md"/>
+        <toc-element topic="Cheat-Sheet.md">
+        </toc-element>
     </toc-element>
 </instance-profile>
